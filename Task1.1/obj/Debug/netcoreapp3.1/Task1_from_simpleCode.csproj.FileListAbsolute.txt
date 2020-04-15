@@ -1,0 +1,11 @@
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\obj\Debug\netcoreapp3.1\Task1_from_simpleCode.csprojAssemblyReference.cache
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\obj\Debug\netcoreapp3.1\Task1_from_simpleCode.AssemblyInfoInputs.cache
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\obj\Debug\netcoreapp3.1\Task1_from_simpleCode.AssemblyInfo.cs
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\bin\Debug\netcoreapp3.1\Task1_from_simpleCode.exe
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\bin\Debug\netcoreapp3.1\Task1_from_simpleCode.deps.json
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\bin\Debug\netcoreapp3.1\Task1_from_simpleCode.runtimeconfig.json
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\bin\Debug\netcoreapp3.1\Task1_from_simpleCode.runtimeconfig.dev.json
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\bin\Debug\netcoreapp3.1\Task1_from_simpleCode.dll
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\bin\Debug\netcoreapp3.1\Task1_from_simpleCode.pdb
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\obj\Debug\netcoreapp3.1\Task1_from_simpleCode.dll
+C:\Users\igorz\Desktop\Veeam\Task1_from_simpleCode\Task1_from_simpleCode\obj\Debug\netcoreapp3.1\Task1_from_simpleCode.pdb
